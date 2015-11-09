@@ -7,7 +7,7 @@ include_once config:: getpath() . 'model/base/FishTableBase.class.php';
 /**
  * Description of Fishtable
  *
- * @author Leydi
+ * @author JohanaGale <ladyjkaulitz@hotmail.com>
  */
 class Fishtable extends FishTableBase {
 

@@ -5,7 +5,7 @@ use Fish\model\model;
 /**
  * Description of FishTableBase
  *
- * @author Leydi
+ * @author JohanaGale <ladyjkaulitz@hotmail.com>
  */
 class FishTableBase extends model {
 
